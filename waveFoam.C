@@ -5,7 +5,7 @@
     \\  /    A nd           | www.openfoam.com
      \\/     M anipulation  |
 -------------------------------------------------------------------------------
-    Copyright (C) 2022 AUTHOR,AFFILIATION
+    Copyright (C) 2022 Ganeshkumar V, Ph.D Mechanical Engineering, IITGN
 -------------------------------------------------------------------------------
 License
     This file is part of OpenFOAM.
